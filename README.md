@@ -114,7 +114,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-2"/>
 
 
-[<img src="https://imgur.com/a/UNMn9AB.jpg" width="50%">](https://youtu.be/v8W6_Xhf_AY)
+[<img src="https://imgur.com/UNMn9AB.jpg" width="50%">](https://youtu.be/v8W6_Xhf_AY)
 
 
 #### Screenshots of Key Features - Desktop
@@ -188,7 +188,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-2-1"/>
 
 
-[<img src="https://imgur.com/a/UNMn9AB.jpg" width="50%">](https://youtu.be/cvp_Ljhnm5Q)
+[<img src="https://imgur.com/UNMn9AB.jpg" width="50%">](https://youtu.be/cvp_Ljhnm5Q)
 
 
 #### Screenshots of Key Features - Mobile
@@ -246,28 +246,28 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-3"/>
 
 
-[<img src="https://imgur.com/a/Q8qXf3K.jpg" width="50%">](https://youtu.be/-PtuscAoFKI)
+[<img src="https://imgur.com/Q8qXf3K.jpg" width="50%">](https://youtu.be/-PtuscAoFKI)
 
 
 #### Screenshots of Key Features
 <a name="screenshots-3"/>
 
 
-| **Sample query and results** <img width="408" alt="hw9_img1" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/6f4436e8-18f4-4ecf-9e13-06ee3857a339"> |
+| **Sample query and results** <br> <img width="408" alt="hw9_img1" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/6f4436e8-18f4-4ecf-9e13-06ee3857a339"> |
 |:--:|
 | An example query using the auto-detect location feature. Search results are sorted in descending order of date and time. Users are able to click an individual row for more information about that event. |
 
 
-| **Event information tab** <img width="408" alt="hw9_img2" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/d92cffa1-1264-4e83-86d5-7f53aef4cd3d"> |
+| **Event information tab** <br> <img width="408" alt="hw9_img2" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/d92cffa1-1264-4e83-86d5-7f53aef4cd3d"> |
 |:--:|
 | After tapping on a row in the results table, the user is presented with a details card containing various information about the event they selected. The user is also able to share the event on Facebook and Twitter. |
 
 
-| **Artist information tab** <img width="408" alt="hw9_img3" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/28c5587f-4164-424f-a57e-961ae815b36a"> |
+| **Artist information tab** <br> <img width="408" alt="hw9_img3" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/28c5587f-4164-424f-a57e-961ae815b36a"> |
 |:--:|
 | Tapping the "Artist/Teams" tab presents the user with information about the artists or teams related to the event they are viewing. For music-related artists, various information about their Spotify profiles is displayed along with their top-3 albums. |
 
 
-| **Venue information tab** <img width="408" alt="hw9_img4" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/9385c104-1a1e-4b0e-ad33-7c5cf0fee89a"> |
+| **Venue information tab** <br> <img width="408" alt="hw9_img4" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/9385c104-1a1e-4b0e-ad33-7c5cf0fee89a"> |
 |:--:|
 | Users can also view information pertaining to the venue at which the event is hosted. |
