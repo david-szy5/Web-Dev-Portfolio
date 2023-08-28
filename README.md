@@ -51,7 +51,8 @@ With this general theme in mind, the subsequent sections describe each iteration
 #### Demo Video
 <a name="demo-video-1"/>
 
-[![Demo video 1]([[https://img.youtube.com/vi/0HZWqXPD634/0.jpg](https://github.com/david-szy5/david-szy5.github.io/assets/89551660/340b07f7-9d11-46a5-8390-43ec531f6217)](https://github.com/david-szy5/david-szy5.github.io/assets/89551660/340b07f7-9d11-46a5-8390-43ec531f6217))](https://youtu.be/0HZWqXPD634)
+[![Demo video 1]([https://i.stack.imgur.com/Vp2cE.png](https://github.com/david-szy5/david-szy5.github.io/assets/89551660/340b07f7-9d11-46a5-8390-43ec531f6217))](https://youtu.be/0HZWqXPD634)
+
 
 
 #### Screenshots of Key Features
