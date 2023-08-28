@@ -114,7 +114,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-2"/>
 
 
-[<img src="https://imgur.com/UNMn9AB.jpg" width="50%">](https://youtu.be/v8W6_Xhf_AY)
+[<img src="https://ibb.co/xGR6mWh.jpg" width="50%">](https://youtu.be/v8W6_Xhf_AY)
 
 
 #### Screenshots of Key Features - Desktop
