@@ -188,7 +188,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-2-1"/>
 
 
-[<img src="https://imgur.com/UNMn9AB.jpg" width="50%">](https://youtu.be/cvp_Ljhnm5Q)
+[<img src="https://i.ibb.co/GkbRsy7/hw8-img01.png" width="50%">](https://youtu.be/cvp_Ljhnm5Q)
 
 
 #### Screenshots of Key Features - Mobile
@@ -246,7 +246,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-3"/>
 
 
-[<img src="https://imgur.com/Q8qXf3K.jpg" width="50%">](https://youtu.be/-PtuscAoFKI)
+[<img src="https://i.ibb.co/vHPrChy/hw9-img1.png" width="50%">](https://youtu.be/-PtuscAoFKI)
 
 
 #### Screenshots of Key Features
