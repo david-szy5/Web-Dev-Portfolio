@@ -52,9 +52,6 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-1"/>
 
 
-[<img width="1218" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/340b07f7-9d11-46a5-8390-43ec531f6217">](https://youtu.be/0HZWqXPD634)
-
-
 [<img src="https://imgur.com/OQYwTCf.jpg" width="50%">](https://youtu.be/0HZWqXPD634)
 
 
@@ -116,7 +113,9 @@ With this general theme in mind, the subsequent sections describe each iteration
 #### Demo Video - Desktop
 <a name="demo-video-2"/>
 
-https://github.com/david-szy5/david-szy5.github.io/assets/89551660/0930f16e-9c00-46dd-b04e-47f89215d9dc
+
+[<img src="https://imgur.com/a/UNMn9AB.jpg" width="50%">](https://youtu.be/v8W6_Xhf_AY)
+
 
 #### Screenshots of Key Features - Desktop
 <a name="screenshots-2"/>
@@ -188,7 +187,9 @@ https://github.com/david-szy5/david-szy5.github.io/assets/89551660/0930f16e-9c00
 #### Demo Video - Mobile
 <a name="demo-video-2-1"/>
 
-https://github.com/david-szy5/david-szy5.github.io/assets/89551660/ca867334-7eb3-4909-9521-18b8a8279559
+
+[<img src="https://imgur.com/a/UNMn9AB.jpg" width="50%">](https://youtu.be/cvp_Ljhnm5Q)
+
 
 #### Screenshots of Key Features - Mobile
 <a name="screenshots-2-1"/>
@@ -245,7 +246,7 @@ https://github.com/david-szy5/david-szy5.github.io/assets/89551660/ca867334-7eb3
 <a name="demo-video-3"/>
 
 
-https://github.com/david-szy5/david-szy5.github.io/assets/89551660/c0e6d0e4-4cd2-4396-acec-fc6a0a9c8825
+[<img src="https://imgur.com/a/Q8qXf3K.jpg" width="50%">](https://youtu.be/-PtuscAoFKI)
 
 
 #### Screenshots of Key Features
