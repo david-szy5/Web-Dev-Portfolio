@@ -51,7 +51,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 #### Demo Video
 <a name="demo-video-1"/>
 
-[![Demo video](https://github.com/david-szy5/Web-Dev-Portfolio/assets/89551660/99aec398-d0ec-49fd-8c1e-2c6d1f14f5ae)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/0HZWqXPD634))
+[![Demo video](https://github.com/david-szy5/Web-Dev-Portfolio/assets/89551660/99aec398-d0ec-49fd-8c1e-2c6d1f14f5ae)]((https://youtu.be/0HZWqXPD634)
 
 #### Screenshots of Key Features
 <a name="screenshots-1"/>
