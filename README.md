@@ -5,7 +5,7 @@
 - [Projects overiew](#overview)
 - [Project 1: Events Search Web Application - Version 1](#homework-1)
   * [Application Overview](#application-overview-1)
-  * [Demo Video](#demo-video-1)
+  * [Demo Video](#video-1)
   * [Screenshots of Key Features](#screenshots-1)
 - [Project 2: Events Search Web Application - Version 2](#homework-2)
   * [Application Overview](#application-overview-2)
@@ -49,7 +49,7 @@ With this general theme in mind, the subsequent sections describe each iteration
 - Hosted on AWS Elastic Beanstalk
 
 #### Demo Video
-<a name="demo-video-1"/>
+<a name="video-1"/>
 
 
 [<img src="https://imgur.com/OQYwTCf.jpg" width="50%">](https://youtu.be/0HZWqXPD634)
