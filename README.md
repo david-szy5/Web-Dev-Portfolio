@@ -52,6 +52,9 @@ With this general theme in mind, the subsequent sections describe each iteration
 <a name="demo-video-1"/>
 
 
+[<img width="1218" src="https://github.com/david-szy5/david-szy5.github.io/assets/89551660/340b07f7-9d11-46a5-8390-43ec531f6217">](https://youtu.be/0HZWqXPD634)
+
+
 [<img src="https://imgur.com/OQYwTCf" width="50%">](https://youtu.be/0HZWqXPD634)
 
 
